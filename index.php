@@ -5,9 +5,6 @@
  * https://github.com/imskaaz/airdropbot
  * Licensed under Apache 2.0
  * Any problem please contact me on :
- * https://t.me/imskaa
- * imskaa.co@gmail.com
- * https://brezehost.com
  */
 
 require_once 'vendor/autoload.php';
