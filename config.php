@@ -4,21 +4,20 @@ return [
 	/**
 	 * Bot's API token
 	 */
-	'bot_token' => '---',
+	'bot_token' => '5047447680:AAHxAiEleg2SZFLWIoBAiggO14qDYU1JC0o',
 	/**
 	 * Bot's username without @ symbol
 	 */
-	'bot_username' => 'bulkdrop_bot',
+	'bot_username' => 'district0x_minerbot',
 	/**
 	 * Bot's extended name/title
 	 */
-	'bot_title' => 'BULKDDROP',
+	'bot_title' => 'district0x_minerbot',
 	/**
 	 * Array of users which will have admin access to bot's private chat
 	 */
 	'bot_admins' =>[
-		872000561,
-		940829080
+		
 	],
 	/**
 	 * Webhook url. Not needed if you will use any of getUpdates() method
@@ -61,18 +60,16 @@ return [
 	/**
 	 * Telegram channel which user need to join after campaign start
 	 */
-	'telegram_channel_to_follow_id' => '-1001469884526',
-	'telegram_channel_to_follow_link_url' => 'https://t.me/bulkheadcoin',
+	'telegram_channel_to_follow_id' => 'https://t.me/district0x_miner',
+	'telegram_channel_to_follow_link_url' => 'https://t.me/district0x_miner1',
 	/**
 	 * Link to twitter profile which lase tweet user must to retweet
 	 */
-	'twitter_profile_url' => 'https://twitter.com/BulkPlatform',
-	'instagram_profile_url' => 'https://instagram.com/bulkheadplatform',
-	'website_profile_url' => 'https://www.bulkplatform.com',
+	'youtube_profile_url' => 'https://www.youtube.com/channel/UCVH1B7kQ-DrDFpnKaRB3Aug',
 	/**
 	 * Link to support contacts
 	 */
-	'support_link' => '@imskaa',
+	'support_link' => '@waffentragen',
 	/**
 	 * Max open campaigns count. After reaching this point - campaigns for new users will not start
 	 */
