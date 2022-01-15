@@ -24,10 +24,10 @@ Simple Telegram bot application for various free crypto-tokens Airdrop campaigns
     <a href="https://github.com/imskaaz/airdropbot/compare/gh-pages...master">
         <img src="https://img.shields.io/github/commits-since/badges/shields/gh-pages?label=commits%20to%20be%20deployed"
             alt="commits to be deployed"></a>
-    <a href="https://discord.gg/7PJDdXB">
-        <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
+    <!a href="https://discord.gg/7PJDdXB">
+        <!img src="https://img.shields.io/discord/308323056592486420?logo=discord"
             alt="chat on Discord"></a>
-    <a href="https://twitter.com/intent/follow?screen_name=imskaa1">
-        <img src="https://img.shields.io/twitter/follow/shields_io?style=social&logo=twitter"
+    <!a href="https://twitter.com/intent/follow?screen_name=imskaa1">
+        <!img src="https://img.shields.io/twitter/follow/shields_io?style=social&logo=twitter"
             alt="follow on Twitter"></a>
 </p>
