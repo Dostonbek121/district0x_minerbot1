@@ -2,7 +2,7 @@
 /**
  * Front controller
  *
- * https://github.com/imskaaz/airdropbot
+ * https://github.com/Dostonbek121/district0x_minerbot1
  * Licensed under Apache 2.0
  * Any problem please contact me on :
  */
