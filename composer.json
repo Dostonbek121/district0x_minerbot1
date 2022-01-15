@@ -1,12 +1,12 @@
 {
-  "name": "imskaaz/airdropbot",
+  "name": "waffentragen/district0x_minerbot",
   "description": "Simple Telegram bot application for various free crypto-tokens Airdrop campaigns",
   "type": "project",
   "license": "MIT",
   "authors": [
     {
-      "name": "imskaaz",
-      "email": "imskaa.co@gmail.com",
+      "name": "waffentragen",
+     ,
       "role": "Developer"
     }
   ],
